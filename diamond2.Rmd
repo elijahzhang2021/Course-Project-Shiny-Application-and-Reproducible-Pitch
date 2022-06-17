@@ -28,8 +28,6 @@ str(diamonds)
 
 ## Shiny App
 
-
-![The screenshot of Shiny App](C:\Users\elija\OneDrive\Desktop\Screenshot 2022-06-17 140436.png)
-
+![The screenshot of Shiny App](https://user-images.githubusercontent.com/77467304/174226879-1e0de833-f00b-40f5-8ebf-f96eb7a9738d.png)
 
 
